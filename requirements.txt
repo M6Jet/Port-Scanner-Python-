@@ -1,0 +1,3 @@
+# This scanner uses only the Python standard library — no install needed.
+# The line below is optional and only used for the ASCII banner in older versions.
+# pyfiglet>=0.8
